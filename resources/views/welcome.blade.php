@@ -106,7 +106,7 @@
                     <p class="knowledge__paragraph">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Excepturi,
                         aliquam nemo in facere suscipit at delectus unde labore ad officia iste accusantium eaque
                         aperiam laborum est voluptate totam? Modi, obcaecati?</p>
-                    <a href="#" class="cta">Entra al curso</a>
+                    <a href="#" class="cta">Solicitar Pagina</a>
                 </div>
 
                 <figure class="knowledge__picture">
