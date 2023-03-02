@@ -11,24 +11,24 @@
 
     <meta name="theme-color" content="#2091F9">
 
-    <meta name="title" content="Aprende CSS desde cero">
+    <meta name="title" content="Demo de pagina web">
     <meta name="description"
-        content="Hola, soy una descripción que verás cuando busques algo de mi temática en Google.">
+        content="Este es un proyecto hecho por christian jara. Es un dema implementando stilos css, js y html">
 
 
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://alexcgdesign.github.io">
-    <meta property="og:title" content="Aprende CSS desde cero">
+    <meta property="og:url" content="#">
+    <meta property="og:title" content="Demo de pagina web">
     <meta property="og:description"
-        content="Hola, soy una descripción que verás cuando busques algo de mi temática en Google.">
-    <meta property="og:image" content="https://alexcgdesign.github.io/images/css.jpg">
+        content="Este es un proyecto hecho por christian jara. Es un dema implementando stilos css, js y html.">
+    <meta property="og:image" content="#">
 
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://www.jordanalex.com/">
-    <meta property="twitter:title" content="Aprende CSS desde cero">
+    <meta property="twitter:url" content="#">
+    <meta property="twitter:title" content="Demo de pagina web">
     <meta property="twitter:description"
-        content="Hola, soy una descripción que verás cuando busques algo de mi temática en Google.">
-    <meta property="twitter:image" content="https://alexcgdesign.github.io/images/css.jpg">
+        content="Este es un proyecto hecho por christian jara. Es un dema implementando stilos css, js y html.">
+    <meta property="twitter:image" content="#">
 </head>
 
 <body>
